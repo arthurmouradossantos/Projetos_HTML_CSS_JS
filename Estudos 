@@ -1,0 +1,58 @@
+Nesta aula, aprendemos:
+
+
+_________________________________________________________HTML_____________________________________________________________________________________________
+Uma introdução ao HTML e às suas tags
+Como definir o título e os parágrafos de um texto
+Utilizando as tags <h1> e <p>, respectivamente
+Como dar destaque para algumas informações do texto, deixando-as em negrito, utilizando a tag <strong>
+Como dar ênfase para algumas informações do texto, deixando-as em itálico, utilizando a tag <em>
+
+
+head é um elemento que contém informações sobre o documento que não são mostradas na tela.
+body é um elemento que contém tudo o que é exibido como parte de uma página de um site.
+
+
+doctype - tipo do documento
+<html> - tag principal, ela marca o início e o final do documento.
+<head> - tag usada para delimitar o cabeçalho do documento. Dentro dela outras tags de cabeçalho serão usadas, como o title, meta, link, entre outros.
+<title> - tag usada para indicar o título do documento.
+<body> - tag usada para definir o corpo do documento. Dentro dela serão colocadas as tags que irão compor a nossa página
+
+
+Atributos
+
+html é a tag
+lang é o atributo
+en é o valor do atributo.
+
+
+POr padrão a fonte tem 16px 
+
+
+
+_______________________________________________________________CSS________________________________________________________________________________________________
+
+font-size: mudar fonte
+text-align: mudar a localização do texto
+
+
+A mexer na apresentação dos textos
+No alinhamento deles (text-align)
+No tamanho da fonte (font-size)
+Na cor de fundo (background)
+Na cor do texto (color)
+CSS inline
+Na linha onde temos a nossa tag, adicionamos a propriedade do CSS
+A tag <style>
+Dentro da tag, podemos colocar marcações de CSS referentes aos elementos que temos no nosso HTML
+A apresentação do CSS com um arquivo externo
+Como funciona o estilo em cascata do CSS
+Como importar um arquivo externo de CSS dentro da nossa página HTML
+Como representar cores no CSS
+Através do nome da cor
+Através do seu hexadecimal
+Através do seu RGB
+Nesta aula, começamos a mexer na apresentação dos textos, no alinhamento deles e no tamanho da fonte. Na próxima, vamos ver como fazer isso em grandes quantidades de texto e de forma muito mais organizada. Te espero lá.
+
+
